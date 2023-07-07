@@ -3,5 +3,6 @@
     "PLEX_SERVER_IP": "your_plex_server_ip",
     "HUE_BRIDGE_IP": "your_hue_bridge_ip",
     "HUE_USERNAME": "your_hue_username",
-    "HUE_LIGHT_ID": "your_hue_light_id"
+    "HUE_LIGHT_ID": "your_hue_light_id",
+    "POLL_INTERVAL_SECONDS": "desired_polling_interval"
 }
